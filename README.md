@@ -325,11 +325,6 @@ Keeping Kubernetes manifests in a separate repository allows application source 
 
 # 📸 Screenshots
 
-### Architecture
-
-![Architecture](screenshots/architecture.png)
-
-
 ### Prometheus
 
 ![Prometheus](screenshots/prometheus.png)
