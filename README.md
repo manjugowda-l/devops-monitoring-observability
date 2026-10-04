@@ -92,6 +92,7 @@ The architecture consists of two major workflows:
 The complete CI/CD and GitOps implementation is maintained separately.
 
 **Refer to the complete CI/CD + GitOps project:**
+
  GITHUB REPO : https://github.com/manjugowda-l/devops-cicd-demo
 
 
@@ -307,7 +308,7 @@ GitHub Repository:
 
 The manifest repository contains the configuration used for the deployment environment.
 GitHub Repository:
-[(https://github.com/manjugowda-l/devops-monitoring-manifests)]
+(https://github.com/manjugowda-l/devops-monitoring-manifests)
 The manifest repository is maintained separately from the application repository to keep application source code and deployment configuration independent.
 
 
@@ -335,6 +336,7 @@ Keeping Kubernetes manifests in a separate repository allows application source 
 ### DevOps CI/CD Demo
 
 Complete CI/CD and GitOps implementation.
+  
 GITHUB REPO : https://github.com/manjugowda-l/devops-cicd-demo
 ### DevOps Monitoring Manifests
 
