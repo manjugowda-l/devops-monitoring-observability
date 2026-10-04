@@ -92,6 +92,7 @@ The architecture consists of two major workflows:
 The complete CI/CD and GitOps implementation is maintained separately.
 
 **Refer to the complete CI/CD + GitOps project:**
+ GITHUB REPO : https://github.com/manjugowda-l/devops-cicd-demo
 
 
 ### 2. Monitoring Workflow
@@ -296,24 +297,17 @@ Grafana then uses Prometheus as its data source for visualization.
 
 # 🗂️ GitHub Repositories
 
-## Application Repository
-
-The application repository contains the Spring Boot application and monitoring implementation.
-GitHub Repository:
-[YOUR_APPLICATION_GITHUB_URL]
-
-
 ## CI/CD + GitOps Repository
 The complete CI/CD and GitOps implementation is maintained separately.
 GitHub Repository:
-[YOUR_CI_CD_GITOPS_REPOSITORY_URL]
+(https://github.com/manjugowda-l/devops-cicd-demo)
 
 
 ## Manifest Repository
 
 The manifest repository contains the configuration used for the deployment environment.
 GitHub Repository:
-[YOUR_MANIFEST_GITHUB_URL]
+[(https://github.com/manjugowda-l/devops-monitoring-manifests)]
 The manifest repository is maintained separately from the application repository to keep application source code and deployment configuration independent.
 
 
@@ -341,7 +335,7 @@ Keeping Kubernetes manifests in a separate repository allows application source 
 ### DevOps CI/CD Demo
 
 Complete CI/CD and GitOps implementation.
-
+GITHUB REPO : https://github.com/manjugowda-l/devops-cicd-demo
 ### DevOps Monitoring Manifests
 
 Kubernetes manifests used for the deployment.
